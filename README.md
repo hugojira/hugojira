@@ -1,4 +1,4 @@
-Hello, I have a bachelor degree in physics and currently I'm an aspiring Data Scientist.
+Hello, I have a bachelor degree in physics and currently I'm studying Data Science.
 
 I'm mainly interested in Machine Learning, NLP, Data Visualization. 
 
