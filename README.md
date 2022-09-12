@@ -1,5 +1,4 @@
-Hello, I have a bachelor degree in physics and currently I'm studying Data Science.
+Hello, I'm a physics graduate and currently in the path of data science.
 
-I'm mainly interested in Machine Learning, NLP, Data Visualization. 
+I'm mainly interested in Machine Learning and Data Visualization. My favorite programming language is R, but I also work with Python.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugojira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
