@@ -3,7 +3,7 @@ Hello! I'm a data scientist currently working at [Orbitware](https://www.orbitwa
 
 I'm interested in MLOps, GenAI and Data Visualization. My favorite programming language is R, but I also work with Python.
 
-For more info about me, I have a portfolio website where you can also find my blog in the next link:
+For more info about me, I have a portfolio website (in spanish) where you can also find my blog in the next link:
 
 [https://hugojira.com/](https://hugojira.com/)
 
