@@ -1,5 +1,5 @@
 # Hugo Valenzuela Chaparro - Data Scientist
-Hello! I'm a data scientist currently working at Orbitware.
+Hello! I'm a data scientist currently working at [Orbitware](https://www.orbitware.com/).
 
 I'm interested in MLOps, GenAI and Data Visualization. My favorite programming language is R, but I also work with Python.
 
