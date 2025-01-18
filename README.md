@@ -8,9 +8,17 @@ For more info about me, I have a portfolio website (in spanish) where you can al
 [https://hugojira.com/](https://hugojira.com/)
 
 ## Projects
+
+### TOP HITS - Data Viz
 Here you can find a dashboard that I made from Spotify data, where you can observe music features through the years:
 
 [https://hugojira.shinyapps.io/TopHits1970-2019/](https://hugojira.shinyapps.io/TopHits1970-2019/)
+
+### FIFA PLAYERS PRICES - MLOps
+
+The following is a stremalit app to predict the prices of FIFA players. The ML project was built to showcase the MLOps Lifecycle
+
+[https://fifaplayersprices.streamlit.app](https://fifaplayersprices.streamlit.app)
 
 
 
